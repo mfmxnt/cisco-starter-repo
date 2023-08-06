@@ -1,4 +1,6 @@
-
+.App {
+  font-family: Monospace;
+}
 
 .App-logo {
   height: 40vmin;
@@ -21,10 +23,10 @@
   border-style: solid;
   border-color: rgb(41, 77, 125);
   border-width: 1em;
-  border-radius: 1em;
+  border-radius: em;
   padding: 2em;
   width: 100%;
-  font-size: 50px;
+  font-size: 30px;
   font-family: 'Times New Roman', Times, serif;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: rgb(41, 77, 125);
@@ -36,13 +38,13 @@
   color: white;
   font-style: bold;
   background-color: white;
-  border-style: dotted;
+  border-style:dashed;
   border-color: black;
-  border-width: 10px;
+  border-width: 1em;
   border-radius: 1em;
-  padding: 1em;
+  padding: 2em;
   width: 100%;
-  font-size: 40px;
+  font-size: 30px;
   font-family: 'Times New Roman', Times, serif;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
