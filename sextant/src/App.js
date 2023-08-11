@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Banner from './Banner';
 import Exhibit from './Exhibit';
+import IPContainer from './IPContainer';
 
 class App extends Component {
     render() {
